@@ -13,9 +13,9 @@
 
 - 👨‍💻 My projects are available at [https://kulenovic.si](https://kulenovic.si)
 
-- 📫 You can reach me at [mailto:timur@kulenovic.si](timur@kulenovic.si)
+- 📫 You can reach me at [timur@kulenovic.si](mailto:timur@kulenovic.si)
 
-- 📄 Read about my experiences in [https://kulenovic.si/cv/](my resume).
+- 📄 Read about my experiences in [my resume](https://kulenovic.si/cv/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
