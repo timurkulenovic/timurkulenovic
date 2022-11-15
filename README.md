@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Timur Kulenović</h1>
-<h3 align="center">Data science master student from Ljubljana, Slovenia</h3>
+<h3 align="center">Data Scientist from Ljubljana, Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurkulenovic&label=Profile%20views&color=0e75b6&style=flat" alt="timurkulenovic" /> </p>
 
