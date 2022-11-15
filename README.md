@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/timurkulenovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timurkulenovic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/timurkulenovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timurkulenovic" height="30" width="40" /></a>
-<a href="mailto:timur@kulenovic.si" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Envelope_font_awesome.svg" alt="timurkulenovic" height="30" width="40" /></a>
+<a href="mailto:timur@kulenovic.si" target="blank"><img align="center" src="https://img.icons8.com/color/512/circled-envelope.png" alt="timurkulenovic" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
