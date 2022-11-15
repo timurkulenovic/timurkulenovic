@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my master thesis - Analysis of home court advantage in sports.**
 
-- 🌱 I’m currently learning **Sports performance analytics.**
+- 🌱 I’m currently looking for any kind of **remote opportunity or project.**
 
 - 👨‍💻 I wish to create a career in **utilizing Data science in sports.**
 
