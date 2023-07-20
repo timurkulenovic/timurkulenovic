@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Timur Kulenović</h1>
-<h3 align="center">Data Scientist from Ljubljana, Slovenia</h3>
+<h3 align="center">Junior Data Scientist from Ljubljana, Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurkulenovic&label=Profile%20views&color=0e75b6&style=flat" alt="timurkulenovic" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **my master thesis - Analysis of home court advantage in sports.**
 
-- 🌱 I’m currently looking for any kind of **remote opportunity or project.**
-
-- 👨‍💻 I wish to create a career in **utilizing Data science in sports.**
+- 👨‍💻 I am on the path to create a career in **utilizing Data science in sports.**
 
 - 👨‍💻 My projects are available at [https://kulenovic.si](https://kulenovic.si)
 
