@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my master thesis - Analysis of home court advantage in sports.**
 
-- 👨‍💻 I am on the path to create a career in **utilizing Data science in sports.**
+- 👨‍💻 I am on the path to create a career in **utilizing Data science in sport related field.**
 
 - 👨‍💻 My projects are available at [https://kulenovic.si](https://kulenovic.si)
 
