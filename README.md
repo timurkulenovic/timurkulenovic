@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/timurkulenovic" target="blank"><img src="https://img.shields.io/twitter/follow/timurkulenovic?logo=twitter&style=for-the-badge" alt="timurkulenovic" /></a> </p>
 
-- 🔭 I’m currently working on **my master thesis - Analysis of home court advantage in sports.**
-
-- 👨‍💻 I am on the path to create a career in **utilizing Data science in sport related field**, working at [Sportradar](https://sportradar.com).
+- 👨‍💻 I have started a career in **utilizing Data science in sport related field**, working at [Sportradar](https://sportradar.com).
 
 - 👨‍💻 My projects are available at [https://kulenovic.si](https://kulenovic.si)
 
